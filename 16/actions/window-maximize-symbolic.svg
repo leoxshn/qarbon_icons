@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="window-maximize-symbolic.svg"
+   inkscape:export-filename="/media/leo/posidon/AndroidStuff/posidonLauncher/icons.svg.png"
+   inkscape:export-xdpi="2457"
+   inkscape:export-ydpi="2457">
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:object-nodes="true"
+     units="px"
+     inkscape:snap-page="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-midpoints="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-nodes="true"
+     showguides="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-grids="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:window-maximized="0"
+     inkscape:window-y="32"
+     inkscape:window-x="1131"
+     inkscape:window-height="1003"
+     inkscape:window-width="1429"
+     showgrid="true"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="7.1223207"
+     inkscape:cx="10.295797"
+     inkscape:zoom="23.303327"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid815"
+       type="xygrid"
+       spacingx="0.26458333"
+       spacingy="0.26458333"
+       empspacing="4"
+       color="#1b1b1b"
+       opacity="0.09803922"
+       empcolor="#1a1a1a"
+       empopacity="0.45490196" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1580"
+       orientation="0,1"
+       position="2.2200195,59.928097" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-294.35413)">
+    <g
+       style="fill:#3e3e3e;fill-opacity:1"
+       id="g2608"
+       transform="matrix(0.10000003,0,0,0.14285871,7.2760414,245.82083)" />
+    <circle
+       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke-width:0.396875"
+       id="circle865"
+       cx="-1.3229167"
+       cy="287.7005"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/leo/Documents/posidonicons/app/src/main/res/drawable-nodpi/camera.png"
+       inkscape:export-xdpi="2457"
+       inkscape:export-ydpi="2457"
+       r="0" />
+    <g
+       id="g1972" />
+    <g
+       id="g1443"
+       transform="matrix(0.85714037,0,0,0.85714037,11.981837,100.22171)" />
+    <g
+       transform="translate(-15.874999,3.2798449e-5)"
+       id="g1457" />
+    <g
+       id="g1639"
+       transform="matrix(1.1335519,0,0,1.1429608,-0.66177081,-39.433295)" />
+    <g
+       id="g1234"
+       transform="rotate(-45,8.4032478,167.45081)"
+       style="fill:#ffffff;fill-opacity:1" />
+    <g
+       style="fill:#00aa5f;fill-opacity:1"
+       id="g5033"
+       transform="rotate(-45,-0.66145589,248.87403)" />
+    <g
+       id="g5096"
+       inkscape:export-filename="/media/leo/posidon/android/posidonLauncher/app/src/main/res/drawable-nodpi/whatsapp.png"
+       inkscape:export-xdpi="2457"
+       inkscape:export-ydpi="2457"
+       transform="translate(1.5897133e-6)" />
+    <g
+       style="opacity:1;fill:#000000;fill-opacity:1"
+       transform="matrix(0.85715475,0,0,0.85715475,4.1577224,27.042706)"
+       id="g6116" />
+    <g
+       id="g6227" />
+    <g
+       transform="matrix(0.87498422,0,0,0.87498422,-3.8033429,36.408735)"
+       id="g1267" />
+    <g
+       id="g1308"
+       transform="translate(3.9687651)"
+       inkscape:export-filename="/media/leo/posidon/android/posidonLauncher/app/src/main/res/mipmap-nodpi/ic.png"
+       inkscape:export-xdpi="2457"
+       inkscape:export-ydpi="2457" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:5.35479;stroke-linecap:round"
+       id="rect857"
+       width="2.6458251"
+       height="0.52916664"
+       x="295.14789"
+       y="-1.3229166"
+       ry="0.25336602"
+       transform="rotate(90)" />
+    <rect
+       transform="scale(-1,1)"
+       ry="0.25521663"
+       y="297.26456"
+       x="-3.4395833"
+       height="0.52915639"
+       width="2.6458333"
+       id="rect859"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:5.35479;stroke-linecap:round" />
+    <rect
+       transform="rotate(-90)"
+       ry="0.26457977"
+       y="2.9104166"
+       x="-297.7937"
+       height="0.5291667"
+       width="2.6458251"
+       id="rect847"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:5.35479;stroke-linecap:round" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:5.35479;stroke-linecap:round"
+       id="rect849"
+       width="2.6458333"
+       height="0.52915245"
+       x="0.79374999"
+       y="-295.67703"
+       ry="0.25521663"
+       transform="scale(1,-1)" />
+  </g>
+</svg>
