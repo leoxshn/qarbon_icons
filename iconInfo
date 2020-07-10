@@ -111,6 +111,7 @@ application-octet-stream.svg
 inode-directory.svg
 gtk-directory.svg
 stock_folder.svg
+gnome-fs-directory.svg
 
 
 
@@ -120,6 +121,42 @@ stock_folder.svg
 folder_open.svg
 stock_open.svg
 folder-drag-accept.svg
+
+
+
+/folder-home.svg
+//places
+
+gnome-home.svg
+user-home.svg
+folder_home.svg
+gnome-fs-home.svg
+
+
+
+/folder-downloads.svg
+//places
+
+folder-download.svg
+folder-download-open.svg
+
+
+
+/folder-documents.svg
+//places
+
+folder-templates.svg
+folder-templates-open.svg
+folder-documents-open.svg
+
+
+
+/folder-music.svg
+//places
+
+library-music.svg
+folder-sound.svg
+folder-music-open.svg
 
 
 
